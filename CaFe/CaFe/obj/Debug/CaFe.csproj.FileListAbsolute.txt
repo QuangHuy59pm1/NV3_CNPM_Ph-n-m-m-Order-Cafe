@@ -1,0 +1,12 @@
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\bin\Debug\CaFe.exe.config
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\bin\Debug\CaFe.exe
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\bin\Debug\CaFe.pdb
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.csproj.AssemblyReference.cache
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.Form1.resources
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.Properties.Resources.resources
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.csproj.GenerateResource.cache
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.csproj.CoreCompileInputs.cache
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.exe
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.pdb
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.fOder.resources
+F:\Bài tập các môn học\Công nghệ phần mềm\CaFe\CaFe\obj\Debug\CaFe.ShowBills.resources
