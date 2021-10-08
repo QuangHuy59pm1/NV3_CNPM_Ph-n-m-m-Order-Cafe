@@ -25,7 +25,6 @@ namespace CaFe
         public ShowBills(string note, string ntable)
         {
             InitializeComponent();
-            hienthi();
             this.Note = note;
             this.NumberTable = ntable;
         }
@@ -46,6 +45,7 @@ namespace CaFe
 
         private void ShowBills_Load(object sender, EventArgs e)
         {
+            hienthi();
             label2.Text = Note;
             label1.Text = NumberTable;
         }
