@@ -165,7 +165,7 @@ namespace CaFe
 
         private void btnXacNhan_Click(object sender, EventArgs e)
         {
-            ShowBills ShowList = new ShowBills(textBox1.Text, table);
+            ShowOrderList ShowList = new ShowOrderList(textBox1.Text, table);
             ShowList.ShowDialog();
             
             
