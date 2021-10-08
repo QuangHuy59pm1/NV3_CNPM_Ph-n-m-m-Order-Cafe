@@ -11,7 +11,7 @@ using System.Windows.Forms;
 
 namespace CaFe
 {
-    public partial class ShowBills : Form
+    public partial class ShowOrderList : Form
     {
         private string Note, NumberTable;
         public ShowBills()
@@ -22,7 +22,7 @@ namespace CaFe
 
  
 
-        public ShowBills(string note, string ntable)
+        public ShowOrderList(string note, string ntable)
         {
             InitializeComponent();
             this.Note = note;
@@ -43,7 +43,7 @@ namespace CaFe
             conn.Close();
         }
 
-        private void ShowBills_Load(object sender, EventArgs e)
+        private void ShowOrderList_Load(object sender, EventArgs e)
         {
             hienthi();
             label2.Text = Note;
