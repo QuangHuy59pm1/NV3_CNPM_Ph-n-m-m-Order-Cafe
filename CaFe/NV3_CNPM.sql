@@ -2,6 +2,16 @@ create database QLCafe
 use QLCafe
 drop database QLCafe
 
+create table Staff(
+MaNV int identity primary key not null, 
+TenNV nvarchar(50), 
+GioiTinh nvarchar(10),
+Chucvu nvarchar(50), 
+NgaySinh date, 
+Diachi nvarchar(50), 
+NgayVaoLam date
+)
+
 create table drink(
 MaD int identity primary key not null,
 tengoiD nvarchar(50),
